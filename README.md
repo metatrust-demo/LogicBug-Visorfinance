@@ -6,8 +6,6 @@
 - Starts 2021-05-13 00:00 UTC
 - Ends 2021-05-18 23:59 UTC
 
-This repo will be made public before the start of the contest.
-
 Visor.sol is fork of Alchemist.wtc project's contracts/crucible/Crucible.sol which has been extended significantly.
   Of interest is the portion that has been added or altered.
 
