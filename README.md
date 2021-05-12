@@ -1,7 +1,7 @@
 # Visor Finance contest details
 - $60,000 USDC main award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
-- Submit findings [using the C4 form](https://c4-TBD.netlify.app/)
+- Submit findings [using the C4 form](https://c4-visorfinance.netlify.app/)
 - [Read our guidelines for more details](https://code423n4.com/compete)
 - Starts 2021-05-13 00:00 UTC
 - Ends 2021-05-18 23:59 UTC
