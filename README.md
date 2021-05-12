@@ -1,12 +1,3 @@
-
-# Contest prep
-
-## 🐺 C4: Contest prep
-- [ ] Add matching info to the [code423n4.com public contest data here](https://github.com/code-423n4/code423n4.com/tree/main/data/contests))
-- [ ] Delete this checklist.
-
----
-
 # Visor Finance contest details
 - $60,000 USDC main award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
