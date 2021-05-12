@@ -56,8 +56,7 @@ Visor.sol is fork of Alchemist.wtc project's contracts/crucible/Crucible.sol whi
   - Get number of timelocks for NFTs of a given ERC721 contract
 
 Name:
-  Visor.sol (639 lines)
-  https://github.com/VisorFinance/visor-core/blob/master/contracts/visor/Visor.sol
+Visor.sol (639 lines)
 
 Libraries, interfaces relevant to scope:
 
@@ -67,13 +66,13 @@ Libraries, interfaces relevant to scope:
 - @openzeppelin/contracts/token/ERC721/IERC721Receiver.sol;
 - @uniswap/lib/contracts/libraries/TransferHelper.sol;
 - @openzeppelin/contracts/utils/Address.sol;
-- https://github.com/VisorFinance/visor-core/blob/master/contracts/visor/OwnableERC721.sol
-- https://github.com/VisorFinance/visor-core/blob/master/contracts/interfaces/IUniversalVault.sol
+- /contracts/visor/OwnableERC721.sol
+- /contracts/interfaces/IUniversalVault.sol
 
 Libraries, interfaces not used in scope:
 
 - @openzeppelin/contracts/proxy/Initializable.sol;
 - @openzeppelin/contracts/utils/EnumerableSet.sol;
-- https://github.com/VisorFinance/visor-core/blob/master/contracts/visor/ERC1271.sol
-- https://github.com/VisorFinance/visor-core/blob/master/contracts/visor/EIP712.sol
-- https://github.com/VisorFinance/visor-core/blob/master/contracts/interfaces/IVisorService.sol;
+- /contracts/visor/ERC1271.sol
+- /contracts/visor/EIP712.sol
+- /contracts/interfaces/IVisorService.sol;
