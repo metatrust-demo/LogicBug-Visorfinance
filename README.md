@@ -66,13 +66,13 @@ Libraries, interfaces relevant to scope:
 - @openzeppelin/contracts/token/ERC721/IERC721Receiver.sol;
 - @uniswap/lib/contracts/libraries/TransferHelper.sol;
 - @openzeppelin/contracts/utils/Address.sol;
-- /contracts/visor/OwnableERC721.sol
-- /contracts/interfaces/IUniversalVault.sol
+- /contracts/contracts/visor/OwnableERC721.sol
+- /contracts/contracts/interfaces/IUniversalVault.sol
 
 Libraries, interfaces not used in scope:
 
 - @openzeppelin/contracts/proxy/Initializable.sol;
 - @openzeppelin/contracts/utils/EnumerableSet.sol;
-- /contracts/visor/ERC1271.sol
-- /contracts/visor/EIP712.sol
-- /contracts/interfaces/IVisorService.sol;
+- /contracts/contracts/visor/ERC1271.sol
+- /contracts/contracts/visor/EIP712.sol
+- /contracts/contracts/interfaces/IVisorService.sol;
